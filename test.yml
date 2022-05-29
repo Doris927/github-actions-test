@@ -1,0 +1,11 @@
+name: tammy
+age: 28
+adress: 'test address'
+active: true
+array:
+  - item1
+  - item2
+  - item3
+longText: >
+  xxxx
+  yyyyyyyyyyyyyyy
